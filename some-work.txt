@@ -4,4 +4,4 @@ This is a final project for 705 Data Science class.
 
 Here, I have a new idea.
 
-This is a banana.
+This is an orange.
